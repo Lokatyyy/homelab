@@ -6,3 +6,8 @@
 # 16. Oktober 2026
 - Mit GitHub vertraut gemacht
 - Diese Repo erstellt
+- OverTheWire Bandit Level 0-5 abgeschlossen
+- Gelernt: Verbindung per SSH, `ls`, `ls -la` (versteckte Dateien), `cd`, `cat`, `pwd`
+- Schwierig: Dateinamen mit `-` und mit Leerzeichen. Gelöst mit `./` davor bzw. Anführungszeichen
+- Hilfreich: Tab-Taste zum Vervollständigen
+- Offen: Wann nutze ich `find` und `du`?
