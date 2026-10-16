@@ -3,7 +3,7 @@
 Mein Heimlabor, in dem ich Cybersecurity praktisch lerne und meine Projekte dokumentiere.
 
 ## Über mich
-Ich bin 16 und möchte in einigen Jahren Cybersecurity studieren. Hier baue ich Schritt für Schritt Praxiserfahrung mit einem Raspberry Pi, TryHackMe und Python auf
+Ich bin 18 und möchte in einigen Jahren Cybersecurity studieren. Hier baue ich Schritt für Schritt Praxiserfahrung mit einem Raspberry Pi, TryHackMe und Python auf
 
 ## Ziel
 - Netzwerk- und Linux-Grundlagen praktisch lernen
