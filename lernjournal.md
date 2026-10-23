@@ -31,5 +31,5 @@
   - Konfigurationsdateien können Geheimnisse enthalten: In `~/.config/` lag ein Zugangstoken von Raspberry Pi Connect. Solche Dateien nie hochladen oder zeigen.
 - **Offen:** Ist Raspberry Pi Connect aktiv, und brauche ich es? Wie funktioniert `ssh-agent`?
 
-## 23. Oktober 2026##
-*Siehe pihole ordner und WireGuard*
+## 23. Oktober 2026
+**Siehe pihole ordner und WireGuard**
