@@ -33,3 +33,6 @@
 
 ## 23. Oktober 2026
 **Siehe pihole ordner und WireGuard**
+
+## 24.Oktober 2026
+**Siehe WireGuard README**
