@@ -94,3 +94,6 @@ sudo shutdown -h now
 
 ## Hinweis
 Adressen, Passwörter, Tokens und Schlüssel sind in diesem Repo bewusst nicht enthalten.
+
+### Blocklisten erweitert
+Zusätzlich zur Standardliste habe ich [HaGeZi Multi Pro / weitere Liste eintragen] hinzugefügt. Listen gehören in die Weboberfläche unter **Adlists** (nicht in die Allowlist). Danach `sudo pihole -g` ("gravity" lädt alle Listen herunter und führt sie zusammen). Mehr Listen bringen nicht automatisch mehr: Viele überschneiden sich, und je strenger sie sind, desto öfter geht eine Seite kaputt. Fehlblockierte Domains gebe ich mit `sudo pihole allow domain.de` frei.
