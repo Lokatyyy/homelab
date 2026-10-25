@@ -13,9 +13,9 @@ Ich möchte in einigen Jahren Cybersecurity studieren. Hier baue ich Schritt fü
 ## Projekte
 | Projekt | Status |
 |---|---|
-| Raspberry Pi einrichten und absichern | geplant |
-| Pi-hole (DNS-Werbeblocker) | geplant |
-| WireGuard-VPN | geplant |
+| Raspberry Pi einrichten und absichern | done |
+| Pi-hole (DNS-Werbeblocker) | done |
+| WireGuard-VPN | done |
 | Honeypot mit Cowrie | geplant |
 | Eigene Python-Tools | geplant |
 
