@@ -16,3 +16,7 @@
   - Ein DDNS-Name bleibt gleich, auch wenn sich die Adresse dahinter ändert.
   - Geheimnisse (Token, private Schlüssel) gehören in geschützte Dateien, nicht in Befehle und nicht ins Repo.
 - **Offen:** Ändert sich mein IPv6-Präfix, und aktualisiert das Skript den Eintrag dann zuverlässig? Wie sieht ein Vollzugriff auf das Heimnetz statt nur DNS über den VPN aus?
+
+## 25. Oktober 2026
+- Pi-hole um zusätzliche Blocklisten erweitert (StevenBlack und HaGeZi) und mit `pihole -g` neu geladen.
+- **Gelernt:** Mehr Listen heißt nicht automatisch besser, weil sich viele überschneiden und Seiten kaputtgehen können. `sudo wg show` ; `pihole status` beim anschalten des Pis zum checken ob alles läuft
