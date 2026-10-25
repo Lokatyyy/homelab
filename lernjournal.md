@@ -36,3 +36,9 @@
 
 ## 24. Oktober 2026
 **Siehe WireGuard README**
+
+## 25. Oktober 2026
+- Pi-hole um eine zusätzliche Blockliste erweitert und mit `pihole -g` neu geladen. Details: [pihole/README.md](pihole/README.md)
+- WireGuard-Doku geschrieben: [WireGuard/README.md](WireGuard/README.md)
+- Repo überarbeitet: README aktualisiert, Beschreibung und Topics ergänzt.
+- **Gelernt:** Blocklisten gehören in die Adlists, nicht in die Allowlist. Dateinamen und Ordner sind bei GitHub groß-/kleinschreibungsabhängig.
