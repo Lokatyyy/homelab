@@ -13,9 +13,9 @@ Ich möchte in einigen Jahren Cybersecurity studieren. Hier baue ich Schritt fü
 ## Projekte
 | Projekt | Status | Doku |
 |---|---|---|
-| Raspberry Pi einrichten und absichern (SSH-Schlüssel, Firewall) | fertig | [pi-setup](pi-setup/README.md) |
+| Raspberry Pi einrichten und absichern (SSH-Schlüssel, Firewall) | fertig | [pi-setup](lernjournal.md) |
 | Pi-hole (DNS-Werbeblocker) | fertig | [pihole](pihole/README.md) |
-| WireGuard-VPN (über IPv6, wegen DS-Lite) | fertig | [wireguard](wireguard/README.md) |
+| WireGuard-VPN (über IPv6, wegen DS-Lite) | fertig | [wireguard](WireGuard/README.md) |
 | Honeypot mit Cowrie | geplant | |
 | Eigene Python-Tools | geplant | |
 
